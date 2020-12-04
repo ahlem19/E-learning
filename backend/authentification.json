@@ -1,0 +1,63 @@
+{
+    "authentification": {
+        "student": [
+            {
+                "name": "ahlem ",
+                "email": "ahlem",
+                "password": "helo"
+            },
+            {
+                "name": "ahlemy",
+                "email": "ahlem@hotmail.fr",
+                "password": "halhsjs"
+            },
+            {
+                "name": "halouma",
+                "email": "halouma1809@hotmail.fr",
+                "password": "hamouma"
+            },
+            {
+                "email": "gdjdjh@hjk.fr",
+                "password": "gjsksml",
+                "name": "gjjlslsldm"
+            },
+            {
+                "name": "halouma",
+                "email": "haks@jkd.fr",
+                "password": "hdkdldd"
+            },
+            {
+                "name": "ahlemg",
+                "email": "haloum1809@hotmail.fr",
+                "password": "gsjskhsjkqk"
+            },
+            {
+                "name": "halouma",
+                "email": "haksks@hsjs.fr",
+                "password": "gshsjddkfdk"
+            },
+            {
+                "name": "naderj",
+                "email": "nader@jsdkds.dkdk",
+                "password": "zjdkdkldldol"
+            }
+        ],
+        "instructor": [
+            {
+                "name": "halouma",
+                "email": "hshsh@ksk.gd",
+                "password": "jsidsoxodo"
+            },
+            {
+                "name": "ahlemchraga",
+                "email": "ahlem1809@hotmail.fr",
+                "password": "helloworld"
+            },
+            {
+                "name": "halouma",
+                "email": "halouma@hotmail.fr",
+                "password": "hamouma"
+            }
+        ]
+    }
+}
